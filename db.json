@@ -1,4 +1,4 @@
-"tours":[
+{"tours":[
   {
     "tourName" : "Warszawa",
 	"places":[
@@ -40,3 +40,4 @@
     ]
   }
 ]
+}
