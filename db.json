@@ -1,0 +1,42 @@
+"tours":[
+  {
+    "tourName" : "Warszawa",
+	"places":[
+      {
+        "name":"Statua Zygmunta",
+        "x":1,
+        "y":1
+      },
+            {
+        "name":"Pałac królewski",
+        "x":2,
+        "y":2
+      },
+            {
+        "name":"Łazienki",
+        "x":3,
+        "y":3
+      }
+    ]
+  },
+  {
+    "tourName" : "Białystok",
+	"places":[
+      {
+        "name":"Park Zwierzyniecki",
+        "x":4,
+        "y":4
+      },
+            {
+        "name":"GALERIAxd",
+        "x":5,
+        "y":5
+      },
+            {
+        "name":"ZOO",
+        "x":6,
+        "y":6
+      }
+    ]
+  }
+]
