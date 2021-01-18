@@ -3,42 +3,69 @@
     "tourName" : "Warszawa",
 	"places":[
       {
-        "name":"Statua Zygmunta",
+        "name":"Kolumna Zygmunta III Wazy",
 	"img_url":"https://zabytek.pl/public/upload/objects_media/big/5c17b3a02af39.jpg",
-        "x":1,
-        "y":1
+        "x":52.15,
+        "y":21.01
       },
             {
-        "name":"Pałac królewski",
+        "name":"Zamek Królewski w Warszawie",
     	"img_url":"https://kolekcja.zamek-krolewski.pl/__data/digi_images/ZKW_444/tiles/1/1/1.jpg",
-        "x":2,
-        "y":2
+        "x":52.15,
+        "y":21.01
       },
             {
-        "name":"Łazienki",
+        "name":"Łazienki Królewskie",
     	"img_url":"https://warsawtour.pl/wp-content/uploads/2018/08/Łazienki-Królewskie-Pałac-na-Wyspie_fot.-z-archiwum-Warszawskiej-Organizacji-Turystycznej.jpg",
+        "x":52.13,
+        "y":21.02
+      },
+		{
+        "name":"Pałac Kultury i Nauki",
+    	"img_url":"http://otowarszawa.pl/wp-content/uploads/m-Palac-Kultury-i-Nauki-02.jpg",
+        "x":52.14,
+        "y":21.00
+      },
+		{
+        "name":"Muzeum Narodowe",
+    	"img_url":"https://upload.wikimedia.org/wikipedia/commons/9/91/Muzeum_Narodowe_w_Warszawie.jpg",
+        "x":52.14,
+        "y":21.01
+      },
+		{
+        "name":"Pałac w Wilanowie",
+    	"img_url":"http://otowarszawa.pl/wp-content/uploads/m-Palac-w-Wilanowie-02.jpg",
         "x":3,
         "y":3
       }
     ]
   },
   {
-    "tourName" : "Białystok",
+    "tourName" : "Kraków",
 	"places":[
       {
-        "name":"Park Zwierzyniecki",
-        "x":4,
-        "y":4
+        "name":"Kościół Mariacki",
+    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Kosciol-Mariacki-w-Krakowie-01.jpg",
+        "x":50.04,
+        "y":19.56
       },
             {
-        "name":"GALERIAxd",
-        "x":5,
-        "y":5
+        "name":"Sukiennice",
+    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Sukiennice-w-Krakowie-01.jpg",
+    	"x":50.04,
+        "y":19.56
       },
             {
-        "name":"ZOO",
-        "x":6,
-        "y":6
+        "name":"Zamek na Wawelu",
+    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Wawel-w-Krakowie-02.jpg",
+        "x":50.03,
+        "y":19.56
+      },
+            {
+        "name":"Collegium Maius",
+    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Collegium-Maius-w-Krakowie-01.jpg",
+        "x":50.03,
+        "y":19.56
       }
     ]
   }
