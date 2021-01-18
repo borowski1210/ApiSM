@@ -45,25 +45,25 @@
 	"places":[
       {
         "name":"Kościół Mariacki",
-    	"img_url":"https://diecezja.pl/wp-content/uploads/2017/10/Kraków-Wniebowzięcia-NMP-1.jpeg",
+    	"img_url":"https://fedkolor.pl/4470-large_default/kosciol-mariacki-krakow.jpg",
         "x":50.04,
         "y":19.56
       },
             {
         "name":"Sukiennice",
-    	"img_url":"https://alekrakow.pl/wp-content/uploads/m-Sukiennice-w-Krakowie-01.jpg",
+    	"img_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20190218_075039_TL.jpg/240px-20190218_075039_TL.jpg",
     	"x":50.04,
         "y":19.56
       },
             {
         "name":"Zamek na Wawelu",
-    	"img_url":"https://alekrakow.pl/wp-content/uploads/m-Wawel-w-Krakowie-02.jpg",
+    	"img_url":"https://ocdn.eu/pulscms-transforms/1/SPuk9kpTURBXy9mYzlmYjJmZDc3Yjc2ZGZkZWRlMmNiNmM0YmFhZGExOC5qcGeTlQMAzKrNFVjNDAGTBc0DFM0BvJMJpmMzNDE1ZgaBoTAB/zamek-krolewski-na-wawelu-krakow.jpg",
         "x":50.03,
         "y":19.56
       },
             {
         "name":"Collegium Maius",
-    	"img_url":"https://alekrakow.pl/wp-content/uploads/m-Collegium-Maius-w-Krakowie-01.jpg",
+    	"img_url":"https://web.goingapp.pl/storage/app/uploads/public/5ee/751/331/thumb_608511_600x350_0_0_crop.jpg",
         "x":50.03,
         "y":19.56
       }
