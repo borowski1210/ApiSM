@@ -45,25 +45,25 @@
 	"places":[
       {
         "name":"Kościół Mariacki",
-    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Kosciol-Mariacki-w-Krakowie-01.jpg",
+    	"img_url":"https://diecezja.pl/wp-content/uploads/2017/10/Kraków-Wniebowzięcia-NMP-1.jpeg",
         "x":50.04,
         "y":19.56
       },
             {
         "name":"Sukiennice",
-    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Sukiennice-w-Krakowie-01.jpg",
+    	"img_url":"https://alekrakow.pl/wp-content/uploads/m-Sukiennice-w-Krakowie-01.jpg",
     	"x":50.04,
         "y":19.56
       },
             {
         "name":"Zamek na Wawelu",
-    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Wawel-w-Krakowie-02.jpg",
+    	"img_url":"https://alekrakow.pl/wp-content/uploads/m-Wawel-w-Krakowie-02.jpg",
         "x":50.03,
         "y":19.56
       },
             {
         "name":"Collegium Maius",
-    	"img_url":"http://alekrakow.pl/wp-content/uploads/m-Collegium-Maius-w-Krakowie-01.jpg",
+    	"img_url":"https://alekrakow.pl/wp-content/uploads/m-Collegium-Maius-w-Krakowie-01.jpg",
         "x":50.03,
         "y":19.56
       }
