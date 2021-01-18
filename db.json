@@ -4,16 +4,19 @@
 	"places":[
       {
         "name":"Statua Zygmunta",
+	"img_url":"https://zabytek.pl/public/upload/objects_media/big/5c17b3a02af39.jpg",
         "x":1,
         "y":1
       },
             {
         "name":"Pałac królewski",
+    	"img_url":"https://kolekcja.zamek-krolewski.pl/__data/digi_images/ZKW_444/tiles/1/1/1.jpg
         "x":2,
         "y":2
       },
             {
         "name":"Łazienki",
+    	"img_url":"https://warsawtour.pl/wp-content/uploads/2018/08/Łazienki-Królewskie-Pałac-na-Wyspie_fot.-z-archiwum-Warszawskiej-Organizacji-Turystycznej.jpg",
         "x":3,
         "y":3
       }
