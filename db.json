@@ -5,38 +5,38 @@
       {
         "name":"Kolumna Zygmunta III Wazy",
 	"img_url":"https://zabytek.pl/public/upload/objects_media/big/5c17b3a02af39.jpg",
-        "x":52.15,
-        "y":21.01
+        "x":52.1450,
+        "y":21.0048
       },
             {
         "name":"Zamek Królewski w Warszawie",
     	"img_url":"https://kolekcja.zamek-krolewski.pl/__data/digi_images/ZKW_444/tiles/1/1/1.jpg",
-        "x":52.15,
-        "y":21.01
+        "x":52.1452,
+        "y":21.0051
       },
             {
         "name":"Łazienki Królewskie",
     	"img_url":"https://warsawtour.pl/wp-content/uploads/2018/08/Łazienki-Królewskie-Pałac-na-Wyspie_fot.-z-archiwum-Warszawskiej-Organizacji-Turystycznej.jpg",
-        "x":52.13,
-        "y":21.02
+        "x":52.1252,
+        "y":21.0154
       },
 		{
         "name":"Pałac Kultury i Nauki",
     	"img_url":"https://static.wikia.nocookie.net/warszawa/images/1/10/Palac_Kultury_i_Nauki_%282%29.jpg/revision/latest/scale-to-width-down/340?cb=20090413180845",
-        "x":52.14,
-        "y":21.00
+        "x":52.1354,
+        "y":21.0023
       },
 		{
         "name":"Muzeum Narodowe",
     	"img_url":"https://upload.wikimedia.org/wikipedia/commons/9/91/Muzeum_Narodowe_w_Warszawie.jpg",
-        "x":52.14,
-        "y":21.01
+        "x":52.1354,
+        "y":21.0129
       },
 		{
         "name":"Pałac w Wilanowie",
     	"img_url":"https://ebilet-media.azureedge.net/media/27182/wilanow450.jpg",
-        "x":52.03,
-        "y":21.05
+        "x":52.0954,
+        "y":21.0522
       }
     ]
   },
@@ -46,26 +46,55 @@
       {
         "name":"Kościół Mariacki",
     	"img_url":"https://fedkolor.pl/4470-large_default/kosciol-mariacki-krakow.jpg",
-        "x":50.04,
-        "y":19.56
+        "x":50.0341,
+        "y":19.5622
       },
             {
         "name":"Sukiennice",
     	"img_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/20190218_075039_TL.jpg/240px-20190218_075039_TL.jpg",
-    	"x":50.04,
-        "y":19.56
+    	"x":50.0342,
+        "y":19.5614
       },
             {
         "name":"Zamek na Wawelu",
     	"img_url":"https://ocdn.eu/pulscms-transforms/1/SPuk9kpTURBXy9mYzlmYjJmZDc3Yjc2ZGZkZWRlMmNiNmM0YmFhZGExOC5qcGeTlQMAzKrNFVjNDAGTBc0DFM0BvJMJpmMzNDE1ZgaBoTAB/zamek-krolewski-na-wawelu-krakow.jpg",
-        "x":50.03,
-        "y":19.56
+        "x":50.0316,
+        "y":19.5610
       },
             {
         "name":"Collegium Maius",
     	"img_url":"https://web.goingapp.pl/storage/app/uploads/public/5ee/751/331/thumb_608511_600x350_0_0_crop.jpg",
-        "x":50.03,
-        "y":19.56
+        "x":50.0342,
+        "y":19.5601
+      }
+    ]
+  },
+  {
+    "tourName" : "Poznań",
+	"places":[
+      {
+        "name":"Ostrów Tumski",
+    	"img_url":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Ostrów_Tumski_widokowka_Poznan.jpg",
+        "x":52.2441,
+        "y":16.5652
+      },
+            {
+        "name":"Stare Miasto",
+    	"img_url":"https://upload.wikimedia.org/wikipedia/commons/1/15/Poznań_1.jpg",
+    	"x":52.2401,
+        "y":16.5602
+      },
+            {
+        "name":"Stary Browar",
+    	"img_url":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Stary_Browar_Poznań_RB1.JPG",
+        "x":52.2407,
+        "y":16.5535
+      },
+            {
+        "name":"Fara Poznańska",
+    	"img_url":"https://upload.wikimedia.org/wikipedia/commons/7/79/Fara_od_ulicy_Podgórnej.jpg",
+        "x":52.2422,
+        "y":16.5603
       }
     ]
   }
